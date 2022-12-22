@@ -104,6 +104,7 @@ body {
     color: #fff;
     margin-top: 22px;
     letter-spacing: -1px;
+    cursor: pointer;
 }
 
 .why-us {
